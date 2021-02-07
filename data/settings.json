@@ -2,7 +2,12 @@
   "sidebar": [
     {
       "section": "Assets",
-      "topics": ""
+      "topics": [
+        {
+          "title": "Logos",
+          "slug": "logos"
+        }
+      ]
     },
     {
       "section": "Introduction",
