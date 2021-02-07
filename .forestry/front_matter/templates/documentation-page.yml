@@ -16,4 +16,5 @@ fields:
   label: slug
 pages:
 - docs/editing-in-forestry.md
+- docs/normal-logo.md
 - docs/test.md
