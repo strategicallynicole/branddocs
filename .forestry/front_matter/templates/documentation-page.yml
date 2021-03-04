@@ -15,6 +15,7 @@ fields:
   name: slug
   label: slug
 pages:
+- atoms/test.md
 - docs/editing-in-forestry.md
 - docs/normal-logo.md
 - docs/test.md
